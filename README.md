@@ -4,7 +4,7 @@
 
 ## 阅读方式
 **你可以访问网站[Flex与Bison教程](https://idiomeo.top/docs/Flex&BisonTutorial)以获得更好的阅读体验。** 
-如果你想直接在GitHub进行阅读，可以先从[第一幕-第一章](https://github.com/idiomeo/Flex-BisonTutorial/第一幕/第一章：FLex与Bison是什么？.md)开始阅读。
+如果你想直接在GitHub进行阅读，可以先从[第一幕-第一章](https://github.com/idiomeo/Flex-BisonTutorial/blob/main/%E7%AC%AC%E4%B8%80%E5%B9%95/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9AFLex%E4%B8%8EBison%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)开始阅读。
 
 ## 这是一个什么教程？
 这是一个关于词法分析器生成器**Flex**与语法分析器生成器**Bison**的系统化教程，面向公众，开源、开放、免费。
